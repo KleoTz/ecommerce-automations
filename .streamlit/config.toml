@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#007BFF" # Ένα κλασικό επαγγελματικό μπλε
+backgroundColor = "#F8F9FA" # Πολύ ανοιχτό γκρι (σχεδόν λευκό)
+secondaryBackgroundColor = "#E9ECEF" # Το χρώμα του sidebar
+textColor = "#212529" # Σκούρο γκρι για κείμενο (πιο ξεκούραστο από το μαύρο)
+font = "sans serif"
